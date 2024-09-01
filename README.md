@@ -1,2 +1,1 @@
-![Class Diagram](class_diagram_image.png)
-# ShareBite
+![Class Diagram](images/class_diagram_image.png)
