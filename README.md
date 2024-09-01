@@ -1,2 +1,2 @@
-![Class Diagram](class diagram1)
+![Class Diagram](class_diagram1)
 
