@@ -1,0 +1,15 @@
+# Folder dan file yang dihasilkan oleh Visual Studio
+.vs/
+.vscode/
+bin/
+obj/
+
+# File pengguna dan konfigurasi yang tidak perlu
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mengabaikan file yang dihasilkan saat build
+*.log
+*.tmp
